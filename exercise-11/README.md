@@ -7,7 +7,7 @@
 
 ![image of the four individuals to be identified in this challenge](./img-exercise.png)
 
-## Analysis Process
+## Methodology
 
 I ran the given image through Google Lens and found [this](https://news.un.org/en/story/2015/12/518952) article on the United Nations website with identical match. This seems to be taken when Libyan political leaders were signing the Libyan Political Agreement in Skhirat, Morocco, on December 17, 2015, to form in interim government in Libya with "a Presidency Council, Cabinet, House of Representatives and State Council." However, there were no names of participants from which I could search for the people in the image. I then copied the caption under the image which says `"UNSMIL | Signing of the Libyan Political Agreement in Skhirat, Morocco, 17 December 2015"` and searched on Google, to which I found this top result entry titled "Libyan parties sign the Libyan Political Agreement in Skhirat, Morocco, 17 December 2015" from the UNSMIL (United Nations Support Mission in Libya) [website](https://unsmil.unmissions.org/en), which might contain more images of the event that captured the faces of the other three men that were obscured in the original image. The link, however, redirected me to a 404 page, meaning the article no longer existed. I went to http://web.archive.org/ to check if the link has been archived, and it was, with the earliest snapshot being taken on October 21, 2021, which you can view [here](https://web.archive.org/web/20211027030058/https://unsmil.unmissions.org/photos-libyan-parties-sign-libyan-political-agreement-skhirat-morocco-17-december-2015). As expected, the archived page provided a lot more photos of the event, and two of them essentially are photos taken from the same position and angle but probably seconds are part because more faces are revealed which you can see from the side by side comparison to the original image below:
 
@@ -54,3 +54,7 @@ To sum it up, according to the labels in the original photo, the 4 men in the im
     2.  Mustafa Abushagur (غيث أبوشافور مصطفى), former Deputy Prime Minister
     3.  Fadel Mohamed Lamen(الأمين محمد فضيل), Libyan political analyst and journalist
     4.  Saleh Hemma Bakdah (ابكدة همة صالح), member of the Representative Committee of Tobruk
+
+**Final note:** Upon checking other's methodology of solving this challenge I found out that the Libyan Political Agreement page that contains the 23 signatures came from the Arabic version pdf on the United Nations website at https://peacemaker.un.org/node/2730. However, that link no longer works (at the time that person worked over the challenge it probably did), and I found the archived version on March 31, 2016 from the Wayback Machine tool at https://web.archive.org/web/20160331014732/http://www.peacemaker.un.org/sites/peacemaker.un.org/files/LY_151207_PoliticalAgreement%28ar%29.pdf, where on page 30 you can find a clearer version of the scanned document above. In my search results, however only the English version of the agreement could be found, and it did not include the page with the signatures.
+
+**Future Improvement:** target the language or origin based on location and context of given event and search keywords in that language to save time and energy.

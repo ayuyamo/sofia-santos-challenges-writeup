@@ -8,6 +8,6 @@
 
     a) Verify the statement above.
 
-## Analysis Process
+## Methodology
 
-- I used Google Lens to find results with exact matches as the image provided in the challenge. I found [this](https://commons.wikimedia.org/wiki/File:WaziriyaAutobombeIrak.jpg) wikipedia page with an attached photo identical to the one in the tweet. The description states that this was an explosion caused by a Vehicle Born Improvised Explosive Devise (a.k.a VBIED) outside the Al Sabah newspaper office in Baghdad, Iraq, on August 27, 2006. This same description could be found on the US Department of War website [here](https://www.war.gov/Multimedia/Photos/igphoto/2001188842/) as well.
+I used Google Lens to find results with exact matches as the image provided in the challenge. I found [this](https://commons.wikimedia.org/wiki/File:WaziriyaAutobombeIrak.jpg) wikipedia page with an attached photo identical to the one in the tweet. The description states that this was an explosion caused by a Vehicle Born Improvised Explosive Devise (a.k.a VBIED) outside the Al Sabah newspaper office in Baghdad, Iraq, on August 27, 2006. This same description could be found on the US Department of War website [here](https://www.war.gov/Multimedia/Photos/igphoto/2001188842/) as well.

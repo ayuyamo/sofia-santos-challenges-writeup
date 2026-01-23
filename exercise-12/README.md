@@ -13,7 +13,7 @@ Please analyse the screenshot and answer the following questions:
 
     c) The screenshot shows data from a specific date. Which is the date?
 
-# Analysis process
+# Methodology
 
 ## Part (a)
 
